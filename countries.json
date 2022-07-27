@@ -1,0 +1,1548 @@
+[
+    {
+        "nameEN": "Argentina",
+        "code": "AR",
+        "code_large": "ARG",
+        "dial_code": "+54",
+        "nameES": "Argentina",
+        "flatCode": "ar",
+        "dial_code_basic": "54"
+    },
+    {
+        "nameEN": "Brazil",
+        "code": "BR",
+        "code_large": "BRA",
+        "dial_code": "+55",
+        "nameES": "Brasil",
+        "flatCode": "br",
+        "dial_code_basic": "55"
+    },
+    {
+        "nameEN": "Bolivia",
+        "code": "BO",
+        "code_large": "BOL",
+        "dial_code": "+591",
+        "nameES": "Bolivia",
+        "flatCode": "bo",
+        "dial_code_basic": "591"
+    },
+    {
+        "nameEN": "Canada",
+        "code": "CA",
+        "code_large": "CAN",
+        "dial_code": "+1",
+        "nameES": "Canadá",
+        "flatCode": "ca",
+        "dial_code_basic": "1"
+    },
+    {
+        "nameEN": "Chile",
+        "code": "CL",
+        "code_large": "CHI",
+        "dial_code": "+56",
+        "nameES": "Chile",
+        "flatCode": "cl",
+        "dial_code_basic": "56"
+    },
+    {
+        "nameEN": "Colombia",
+        "code": "CO",
+        "code_large": "COL",
+        "dial_code": "+57",
+        "nameES": "Colombia",
+        "flatCode": "co",
+        "dial_code_basic": "57"
+    },
+    {
+        "nameEN": "Ecuador",
+        "code": "EC",
+        "code_large": "ECU",
+        "dial_code": "+593",
+        "nameES": "Ecuador",
+        "flatCode": "ec",
+        "dial_code_basic": "593"
+    },
+    {
+        "nameEN": "Mexico",
+        "code": "MX",
+        "code_large": "MEX",
+        "dial_code": "+52",
+        "nameES": "México",
+        "flatCode": "mx",
+        "dial_code_basic": "52"
+    },
+    {
+        "nameEN": "Peru",
+        "code": "PE",
+        "code_large": "PER",
+        "dial_code": "+51",
+        "nameES": "Perú",
+        "flatCode": "pe",
+        "dial_code_basic": "51"
+    },
+    {
+        "nameEN": "United States",
+        "code": "US",
+        "code_large": "USA",
+        "dial_code": "+1",
+        "nameES": "Estados Unidos",
+        "flatCode": "us",
+        "dial_code_basic": "1"
+    },
+    {
+        "nameEN": "Uruguay",
+        "code": "UY",
+        "code_large": "URU",
+        "dial_code": "+598",
+        "nameES": "Uruguay",
+        "flatCode": "uy",
+        "priority": true,
+        "dial_code_basic": "598"
+    },
+    {
+        "nameEN": "Australia",
+        "code": "AU",
+        "code_large": "AUS",
+        "dial_code": "+61",
+        "nameES": "Australia",
+        "flatCode": "au",
+        "dial_code_basic": "61"
+    },
+    {
+        "nameEN": "Austria",
+        "code": "AT",
+        "code_large": "AUT",
+        "dial_code": "+43",
+        "nameES": "Austria",
+        "flatCode": "at",
+        "dial_code_basic": "43"
+    },
+    {
+        "nameEN": "Bahamas",
+        "code": "BS",
+        "code_large": "BAH",
+        "dial_code": "+1242",
+        "nameES": "Bahamas",
+        "flatCode": "bs",
+        "dial_code_basic": "1242"
+    },
+    {
+        "nameEN": "Bahrain",
+        "code": "BH",
+        "code_large": "BRN",
+        "dial_code": "+973",
+        "nameES": "Bahrein",
+        "flatCode": "bh",
+        "dial_code_basic": "973"
+    },
+    {
+        "nameEN": "Belarus",
+        "code": "BY",
+        "code_large": "BLR",
+        "dial_code": "+375",
+        "nameES": "Bielorrusia",
+        "flatCode": "by",
+        "dial_code_basic": "375"
+    },
+    {
+        "nameEN": "Belgium",
+        "code": "BE",
+        "code_large": "BEL",
+        "dial_code": "+32",
+        "nameES": "Bélgica",
+        "flatCode": "be",
+        "dial_code_basic": "32"
+    },
+    {
+        "nameEN": "Belize",
+        "code": "BZ",
+        "code_large": "BIZ",
+        "dial_code": "+501",
+        "nameES": "Belice",
+        "flatCode": "bz",
+        "dial_code_basic": "501"
+    },
+    {
+        "nameEN": "Bermuda",
+        "code": "BM",
+        "code_large": "BER",
+        "dial_code": "+1441",
+        "nameES": "Bermudas",
+        "flatCode": "bm",
+        "dial_code_basic": "1441"
+    },
+    {
+        "nameEN": "Bosnia and Herzegovina",
+        "code": "BA",
+        "code_large": "BIH",
+        "dial_code": "+387",
+        "nameES": "Bosnia y Herzegovina",
+        "flatCode": "ba",
+        "dial_code_basic": "387"
+    },
+    {
+        "nameEN": "Botswana",
+        "code": "BW",
+        "code_large": "BOT",
+        "dial_code": "+267",
+        "nameES": "Botswana",
+        "flatCode": "bw",
+        "dial_code_basic": "267"
+    },
+    {
+        "nameEN": "Bulgaria",
+        "code": "BG",
+        "code_large": "BUL",
+        "dial_code": "+359",
+        "nameES": "Bulgaria",
+        "flatCode": "bg",
+        "dial_code_basic": "359"
+    },
+    {
+        "nameEN": "Cameroon",
+        "code": "CM",
+        "code_large": "CMR",
+        "dial_code": "+237",
+        "nameES": "Camerún",
+        "flatCode": "cm",
+        "dial_code_basic": "237"
+    },
+    {
+        "nameEN": "China",
+        "code": "CN",
+        "code_large": "CHN",
+        "dial_code": "+86",
+        "nameES": "China",
+        "flatCode": "cn",
+        "dial_code_basic": "86"
+    },
+    {
+        "nameEN": "Comoros",
+        "code": "KM",
+        "code_large": "COM",
+        "dial_code": "+269",
+        "nameES": "Comoras",
+        "flatCode": "km",
+        "dial_code_basic": "269"
+    },
+    {
+        "nameEN": "Cook Islands",
+        "code": "CK",
+        "code_large": "COK",
+        "dial_code": "+682",
+        "nameES": "Islas Cook",
+        "flatCode": "ck",
+        "dial_code_basic": "682"
+    },
+    {
+        "nameEN": "Costa Rica",
+        "code": "CR",
+        "code_large": "CRC",
+        "dial_code": "+506",
+        "nameES": "Costa Rica",
+        "flatCode": "cr",
+        "dial_code_basic": "506"
+    },
+    {
+        "nameEN": "Croatia",
+        "code": "HR",
+        "code_large": "CRO",
+        "dial_code": "+385",
+        "nameES": "Croacia",
+        "flatCode": "hr",
+        "dial_code_basic": "385"
+    },
+    {
+        "nameEN": "Cuba",
+        "code": "CU",
+        "code_large": "CUB",
+        "dial_code": "+53",
+        "nameES": "Cuba",
+        "flatCode": "cu",
+        "dial_code_basic": "53"
+    },
+    {
+        "nameEN": "Curaçao",
+        "code": "CW",
+        "dial_code": "+599",
+        "nameES": "Curazao",
+        "flatCode": "cw",
+        "dial_code_basic": "599"
+    },
+    {
+        "nameEN": "Cyprus",
+        "code": "CY",
+        "code_large": "CYP",
+        "dial_code": "+357",
+        "nameES": "Chipre",
+        "flatCode": "cy",
+        "dial_code_basic": "357"
+    },
+    {
+        "nameEN": "Czechia",
+        "code": "CZ",
+        "code_large": "CZE",
+        "dial_code": "+420",
+        "nameES": "Chequia",
+        "flatCode": "cz",
+        "dial_code_basic": "420"
+    },
+    {
+        "nameEN": "DR Congo",
+        "code": "CD",
+        "code_large": "COD",
+        "dial_code": "+243",
+        "nameES": "Congo (Rep. Dem.)",
+        "flatCode": "cd",
+        "dial_code_basic": "243"
+    },
+    {
+        "nameEN": "Denmark",
+        "code": "DK",
+        "code_large": "DEN",
+        "dial_code": "+45",
+        "nameES": "Dinamarca",
+        "flatCode": "dk",
+        "dial_code_basic": "45"
+    },
+    {
+        "nameEN": "Djibouti",
+        "code": "DJ",
+        "code_large": "DJI",
+        "dial_code": "+253",
+        "nameES": "Djibouti",
+        "flatCode": "dj",
+        "dial_code_basic": "253"
+    },
+    {
+        "nameEN": "Dominican Republic",
+        "code": "DO",
+        "code_large": "DOM",
+        "dial_code": "+1",
+        "nameES": "República Dominicana",
+        "flatCode": "do",
+        "dial_code_basic": "1"
+    },
+    {
+        "nameEN": "Egypt",
+        "code": "EG",
+        "code_large": "EGY",
+        "dial_code": "+20",
+        "nameES": "Egipto",
+        "flatCode": "eg",
+        "dial_code_basic": "20"
+    },
+    {
+        "nameEN": "El Salvador",
+        "code": "SV",
+        "code_large": "ESA",
+        "dial_code": "+503",
+        "nameES": "El Salvador",
+        "flatCode": "sv",
+        "dial_code_basic": "503"
+    },
+    {
+        "nameEN": "Equatorial Guinea",
+        "code": "GQ",
+        "code_large": "GEQ",
+        "dial_code": "+240",
+        "nameES": "Guinea Ecuatorial",
+        "flatCode": "gq",
+        "dial_code_basic": "240"
+    },
+    {
+        "nameEN": "Eritrea",
+        "code": "ER",
+        "code_large": "ERI",
+        "dial_code": "+291",
+        "nameES": "Eritrea",
+        "flatCode": "er",
+        "dial_code_basic": "291"
+    },
+    {
+        "nameEN": "Estonia",
+        "code": "EE",
+        "code_large": "EST",
+        "dial_code": "+372",
+        "nameES": "Estonia",
+        "flatCode": "ee",
+        "dial_code_basic": "372"
+    },
+    {
+        "nameEN": "Eswatini",
+        "code": "SZ",
+        "code_large": "SWZ",
+        "dial_code": "+268",
+        "nameES": "Suazilandia",
+        "flatCode": "sz",
+        "dial_code_basic": "268"
+    },
+    {
+        "nameEN": "Ethiopia",
+        "code": "ET",
+        "code_large": "ETH",
+        "dial_code": "+251",
+        "nameES": "Etiopía",
+        "flatCode": "et",
+        "dial_code_basic": "251"
+    },
+    {
+        "nameEN": "Faroe Islands",
+        "code": "FO",
+        "dial_code": "+298",
+        "nameES": "Islas Faroe",
+        "flatCode": "fo",
+        "dial_code_basic": "298"
+    },
+    {
+        "nameEN": "Fiji",
+        "code": "FJ",
+        "code_large": "FIJ",
+        "dial_code": "+679",
+        "nameES": "Fiyi",
+        "flatCode": "fj",
+        "dial_code_basic": "679"
+    },
+    {
+        "nameEN": "Finland",
+        "code": "FI",
+        "code_large": "FIN",
+        "dial_code": "+358",
+        "nameES": "Finlandia",
+        "flatCode": "fi",
+        "dial_code_basic": "358"
+    },
+    {
+        "nameEN": "France",
+        "code": "FR",
+        "code_large": "FRA",
+        "dial_code": "+33",
+        "nameES": "Francia",
+        "flatCode": "fr",
+        "dial_code_basic": "33"
+    },
+    {
+        "nameEN": "French Guiana",
+        "code": "GF",
+        "dial_code": "+594",
+        "nameES": "Guayana Francesa",
+        "flatCode": "gy",
+        "dial_code_basic": "594"
+    },
+    {
+        "nameEN": "French Polynesia",
+        "code": "PF",
+        "dial_code": "+689",
+        "nameES": "Polinesia Francesa",
+        "flatCode": "pf",
+        "dial_code_basic": "689"
+    },
+    {
+        "nameEN": "Gabon",
+        "code": "GA",
+        "code_large": "GAB",
+        "dial_code": "+241",
+        "nameES": "Gabón",
+        "flatCode": "ga",
+        "dial_code_basic": "241"
+    },
+    {
+        "nameEN": "Gambia",
+        "code": "GM",
+        "code_large": "GAM",
+        "dial_code": "+220",
+        "nameES": "Gambia",
+        "flatCode": "gm",
+        "dial_code_basic": "220"
+    },
+    {
+        "nameEN": "Georgia",
+        "code": "GE",
+        "code_large": "GEO",
+        "dial_code": "+995",
+        "nameES": "Georgia",
+        "flatCode": "ge",
+        "dial_code_basic": "995"
+    },
+    {
+        "nameEN": "Germany",
+        "code": "DE",
+        "code_large": "GER",
+        "dial_code": "+49",
+        "nameES": "Alemania",
+        "flatCode": "de",
+        "dial_code_basic": "49"
+    },
+    {
+        "nameEN": "Ghana",
+        "code": "GH",
+        "code_large": "GHA",
+        "dial_code": "+233",
+        "nameES": "Ghana",
+        "flatCode": "gh",
+        "dial_code_basic": "233"
+    },
+    {
+        "nameEN": "Gibraltar",
+        "code": "GI",
+        "dial_code": "+350",
+        "nameES": "Gibraltar",
+        "flatCode": "gi",
+        "dial_code_basic": "350"
+    },
+    {
+        "nameEN": "Greece",
+        "code": "GR",
+        "code_large": "GRE",
+        "dial_code": "+30",
+        "nameES": "Grecia",
+        "flatCode": "gr",
+        "dial_code_basic": "30"
+    },
+    {
+        "nameEN": "Greenland",
+        "code": "GL",
+        "dial_code": "+299",
+        "nameES": "Groenlandia",
+        "flatCode": "gl",
+        "dial_code_basic": "299"
+    },
+    {
+        "nameEN": "Grenada",
+        "code": "GD",
+        "code_large": "GRN",
+        "dial_code": "+1473",
+        "nameES": "Grenada",
+        "flatCode": "gd",
+        "dial_code_basic": "1473"
+    },
+    {
+        "nameEN": "Guadeloupe",
+        "code": "GP",
+        "dial_code": "+590",
+        "nameES": "Guadalupe",
+        "flatCode": "gp",
+        "dial_code_basic": "590"
+    },
+    {
+        "nameEN": "Guam",
+        "code": "GU",
+        "code_large": "GUM",
+        "dial_code": "+1671",
+        "nameES": "Guam",
+        "flatCode": "gu",
+        "dial_code_basic": "1671"
+    },
+    {
+        "nameEN": "Guatemala",
+        "code": "GT",
+        "code_large": "GUA",
+        "dial_code": "+502",
+        "nameES": "Guatemala",
+        "flatCode": "gt",
+        "dial_code_basic": "502"
+    },
+    {
+        "nameEN": "Guernsey",
+        "code": "GG",
+        "dial_code": "+44",
+        "nameES": "Guernsey",
+        "flatCode": "gg",
+        "dial_code_basic": "44"
+    },
+    {
+        "nameEN": "Guinea",
+        "code": "GN",
+        "code_large": "GUI",
+        "dial_code": "+224",
+        "nameES": "Guinea",
+        "flatCode": "gn",
+        "dial_code_basic": "224"
+    },
+    {
+        "nameEN": "Guinea-Bissau",
+        "code": "GW",
+        "code_large": "GBS",
+        "dial_code": "+245",
+        "nameES": "Guinea-Bisáu",
+        "flatCode": "gw",
+        "dial_code_basic": "245"
+    },
+    {
+        "nameEN": "Guyana",
+        "code": "GY",
+        "code_large": "GUY",
+        "dial_code": "+592",
+        "nameES": "Guyana",
+        "flatCode": "gy",
+        "dial_code_basic": "592"
+    },
+    {
+        "nameEN": "Haiti",
+        "code": "HT",
+        "code_large": "HAI",
+        "dial_code": "+509",
+        "nameES": "Haití",
+        "flatCode": "ht",
+        "dial_code_basic": "509"
+    },
+    {
+        "nameEN": "Honduras",
+        "code": "HN",
+        "code_large": "HON",
+        "dial_code": "+504",
+        "nameES": "Honduras",
+        "flatCode": "hn",
+        "dial_code_basic": "504"
+    },
+    {
+        "nameEN": "Hong Kong",
+        "code": "HK",
+        "code_large": "HKG",
+        "dial_code": "+852",
+        "nameES": "Hong Kong",
+        "flatCode": "hk",
+        "dial_code_basic": "852"
+    },
+    {
+        "nameEN": "Hungary",
+        "code": "HU",
+        "code_large": "HUN",
+        "dial_code": "+36",
+        "nameES": "Hungría",
+        "flatCode": "hu",
+        "dial_code_basic": "36"
+    },
+    {
+        "nameEN": "Iceland",
+        "code": "IS",
+        "code_large": "ISL",
+        "dial_code": "+354",
+        "nameES": "Islandia",
+        "flatCode": "is",
+        "dial_code_basic": "354"
+    },
+    {
+        "nameEN": "India",
+        "code": "IN",
+        "code_large": "IND",
+        "dial_code": "+91",
+        "nameES": "India",
+        "flatCode": "in",
+        "dial_code_basic": "91"
+    },
+    {
+        "nameEN": "Indonesia",
+        "code": "ID",
+        "code_large": "INA",
+        "dial_code": "+62",
+        "nameES": "Indonesia",
+        "flatCode": "id",
+        "dial_code_basic": "62"
+    },
+    {
+        "nameEN": "Iran",
+        "code": "IR",
+        "code_large": "IRI",
+        "dial_code": "+98",
+        "nameES": "Iran",
+        "flatCode": "ir",
+        "dial_code_basic": "98"
+    },
+    {
+        "nameEN": "Iraq",
+        "code": "IQ",
+        "code_large": "IRQ",
+        "dial_code": "+964",
+        "nameES": "Irak",
+        "flatCode": "iq",
+        "dial_code_basic": "964"
+    },
+    {
+        "nameEN": "Ireland",
+        "code": "IE",
+        "code_large": "IRL",
+        "dial_code": "+353",
+        "nameES": "Irlanda",
+        "flatCode": "ie",
+        "dial_code_basic": "353"
+    },
+    {
+        "nameEN": "Isle of Man",
+        "code": "IM",
+        "dial_code": "+44",
+        "nameES": "Isla de Man",
+        "flatCode": "im",
+        "dial_code_basic": "44"
+    },
+    {
+        "nameEN": "Israel",
+        "code": "IL",
+        "code_large": "ISR",
+        "dial_code": "+972",
+        "nameES": "Israel",
+        "flatCode": "il",
+        "dial_code_basic": "972"
+    },
+    {
+        "nameEN": "Italy",
+        "code": "IT",
+        "code_large": "ITA",
+        "dial_code": "+39",
+        "nameES": "Italia",
+        "flatCode": "it",
+        "dial_code_basic": "39"
+    },
+    {
+        "nameEN": "Ivory Coast",
+        "code": "CI",
+        "code_large": "CIV",
+        "dial_code": "+225",
+        "nameES": "Costa de Marfil",
+        "flatCode": "ci",
+        "dial_code_basic": "225"
+    },
+    {
+        "nameEN": "Jamaica",
+        "code": "JM",
+        "code_large": "JAM",
+        "dial_code": "+1876",
+        "nameES": "Jamaica",
+        "flatCode": "jm",
+        "dial_code_basic": "1876"
+    },
+    {
+        "nameEN": "Japan",
+        "code": "JP",
+        "code_large": "JPN",
+        "dial_code": "+81",
+        "nameES": "Japón",
+        "flatCode": "jp",
+        "dial_code_basic": "81"
+    },
+    {
+        "nameEN": "Luxembourg",
+        "code": "LU",
+        "code_large": "LUX",
+        "dial_code": "+352",
+        "nameES": "Luxemburgo",
+        "flatCode": "lu",
+        "dial_code_basic": "352"
+    },
+    {
+        "nameEN": "Madagascar",
+        "code": "MG",
+        "code_large": "MAD",
+        "dial_code": "+261",
+        "nameES": "Madagascar",
+        "flatCode": "mg",
+        "dial_code_basic": "261"
+    },
+    {
+        "nameEN": "Malawi",
+        "code": "MW",
+        "code_large": "MAW",
+        "dial_code": "+265",
+        "nameES": "Malawi",
+        "flatCode": "mw",
+        "dial_code_basic": "265"
+    },
+    {
+        "nameEN": "Malaysia",
+        "code": "MY",
+        "code_large": "MAS",
+        "dial_code": "+60",
+        "nameES": "Malasia",
+        "flatCode": "my",
+        "dial_code_basic": "60"
+    },
+    {
+        "nameEN": "Mali",
+        "code": "ML",
+        "code_large": "MLI",
+        "dial_code": "+223",
+        "nameES": "Mali",
+        "flatCode": "ml",
+        "dial_code_basic": "223"
+    },
+    {
+        "nameEN": "Malta",
+        "code": "MT",
+        "code_large": "MLT",
+        "dial_code": "+356",
+        "nameES": "Malta",
+        "flatCode": "mt",
+        "dial_code_basic": "356"
+    },
+    {
+        "nameEN": "Martinique",
+        "code": "MQ",
+        "dial_code": "+596",
+        "nameES": "Martinica",
+        "flatCode": "mq",
+        "dial_code_basic": "596"
+    },
+    {
+        "nameEN": "Mayotte",
+        "code": "YT",
+        "dial_code": "+262",
+        "nameES": "Mayotte",
+        "flatCode": "yt",
+        "dial_code_basic": "262"
+    },
+    {
+        "nameEN": "Micronesia",
+        "code": "FM",
+        "code_large": "FSM",
+        "dial_code": "+691",
+        "nameES": "Micronesia",
+        "flatCode": "fm",
+        "dial_code_basic": "691"
+    },
+    {
+        "nameEN": "Moldova",
+        "code": "MD",
+        "code_large": "MDA",
+        "dial_code": "+373",
+        "nameES": "Moldavia",
+        "flatCode": "md",
+        "dial_code_basic": "373"
+    },
+    {
+        "nameEN": "Monaco",
+        "code": "MC",
+        "code_large": "MON",
+        "dial_code": "+377",
+        "nameES": "Mónaco",
+        "flatCode": "mc",
+        "dial_code_basic": "377"
+    },
+    {
+        "nameEN": "Mongolia",
+        "code": "MN",
+        "code_large": "MGL",
+        "dial_code": "+976",
+        "nameES": "Mongolia",
+        "flatCode": "mn",
+        "dial_code_basic": "976"
+    },
+    {
+        "nameEN": "Montenegro",
+        "code": "ME",
+        "code_large": "MNE",
+        "dial_code": "+382",
+        "nameES": "Montenegro",
+        "flatCode": "me",
+        "dial_code_basic": "382"
+    },
+    {
+        "nameEN": "Montserrat",
+        "code": "MS",
+        "dial_code": "+1664",
+        "nameES": "Montserrat",
+        "flatCode": "ms",
+        "dial_code_basic": "1664"
+    },
+    {
+        "nameEN": "Morocco",
+        "code": "MA",
+        "code_large": "MAR",
+        "dial_code": "+212",
+        "nameES": "Marruecos",
+        "flatCode": "ma",
+        "dial_code_basic": "212"
+    },
+    {
+        "nameEN": "Mozambique",
+        "code": "MZ",
+        "code_large": "MOZ",
+        "dial_code": "+258",
+        "nameES": "Mozambique",
+        "flatCode": "mz",
+        "dial_code_basic": "258"
+    },
+    {
+        "nameEN": "Myanmar",
+        "code": "MM",
+        "code_large": "MYA",
+        "dial_code": "+95",
+        "nameES": "Myanmar",
+        "flatCode": "mm",
+        "dial_code_basic": "95"
+    },
+    {
+        "nameEN": "Namibia",
+        "code": "NA",
+        "code_large": "NAM",
+        "dial_code": "+264",
+        "nameES": "Namibia",
+        "flatCode": "na",
+        "dial_code_basic": "264"
+    },
+    {
+        "nameEN": "Netherlands",
+        "code": "NL",
+        "code_large": "NED",
+        "dial_code": "+31",
+        "nameES": "Países Bajos",
+        "flatCode": "nl",
+        "dial_code_basic": "31"
+    },
+    {
+        "nameEN": "New Caledonia",
+        "code": "NC",
+        "dial_code": "+687",
+        "nameES": "Nueva Caledonia",
+        "flatCode": "nc",
+        "dial_code_basic": "687"
+    },
+    {
+        "nameEN": "New Zealand",
+        "code": "NZ",
+        "code_large": "NZL",
+        "dial_code": "+64",
+        "nameES": "Nueva Zelanda",
+        "flatCode": "nz",
+        "dial_code_basic": "64"
+    },
+    {
+        "nameEN": "Nicaragua",
+        "code": "NI",
+        "code_large": "NCA",
+        "dial_code": "+505",
+        "nameES": "Nicaragua",
+        "flatCode": "ni",
+        "dial_code_basic": "505"
+    },
+    {
+        "nameEN": "Niger",
+        "code": "NE",
+        "code_large": "NIG",
+        "dial_code": "+227",
+        "nameES": "Níger",
+        "flatCode": "ne",
+        "dial_code_basic": "227"
+    },
+    {
+        "nameEN": "Nigeria",
+        "code": "NG",
+        "code_large": "NGR",
+        "dial_code": "+234",
+        "nameES": "Nigeria",
+        "flatCode": "ng",
+        "dial_code_basic": "234"
+    },
+    {
+        "nameEN": "North Korea",
+        "code": "KP",
+        "code_large": "PRK",
+        "dial_code": "+850",
+        "nameES": "Corea del Norte",
+        "flatCode": "kp",
+        "dial_code_basic": "850"
+    },
+    {
+        "nameEN": "North Macedonia",
+        "code": "MK",
+        "code_large": "MKD",
+        "dial_code": "+389",
+        "nameES": "Macedonia del Norte",
+        "flatCode": "mk",
+        "dial_code_basic": "389"
+    },
+    {
+        "nameEN": "Oman",
+        "code": "OM",
+        "code_large": "OMA",
+        "dial_code": "+968",
+        "nameES": "Omán",
+        "flatCode": "om",
+        "dial_code_basic": "968"
+    },
+    {
+        "nameEN": "Pakistan",
+        "code": "PK",
+        "code_large": "PAK",
+        "dial_code": "+92",
+        "nameES": "Pakistán",
+        "flatCode": "pk",
+        "dial_code_basic": "92"
+    },
+    {
+        "nameEN": "Panama",
+        "code": "PA",
+        "code_large": "PAN",
+        "dial_code": "+507",
+        "nameES": "Panamá",
+        "flatCode": "pa",
+        "dial_code_basic": "507"
+    },
+    {
+        "nameEN": "Paraguay",
+        "code": "PY",
+        "code_large": "PAR",
+        "dial_code": "+595",
+        "nameES": "Paraguay",
+        "flatCode": "py",
+        "dial_code_basic": "595"
+    },
+    {
+        "nameEN": "Philippines",
+        "code": "PH",
+        "code_large": "PHI",
+        "dial_code": "+63",
+        "nameES": "Filipinas",
+        "flatCode": "ph",
+        "dial_code_basic": "63"
+    },
+    {
+        "nameEN": "Poland",
+        "code": "PL",
+        "code_large": "POL",
+        "dial_code": "+48",
+        "nameES": "Polonia",
+        "flatCode": "pl",
+        "dial_code_basic": "48"
+    },
+    {
+        "nameEN": "Portugal",
+        "code": "PT",
+        "code_large": "POR",
+        "dial_code": "+351",
+        "nameES": "Portugal",
+        "flatCode": "pt",
+        "dial_code_basic": "351"
+    },
+    {
+        "nameEN": "Puerto Rico",
+        "code": "PR",
+        "code_large": "PUR",
+        "dial_code": "+1",
+        "nameES": "Puerto Rico",
+        "flatCode": "pr",
+        "dial_code_basic": "1"
+    },
+    {
+        "nameEN": "Qatar",
+        "code": "QA",
+        "code_large": "QAT",
+        "dial_code": "+974",
+        "nameES": "Catar",
+        "flatCode": "qa",
+        "dial_code_basic": "974"
+    },
+    {
+        "nameEN": "Republic of the Congo",
+        "code": "CG",
+        "code_large": "CGO",
+        "dial_code": "+242",
+        "nameES": "Congo",
+        "flatCode": "cg",
+        "dial_code_basic": "242"
+    },
+    {
+        "nameEN": "Romania",
+        "code": "RO",
+        "code_large": "ROU",
+        "dial_code": "+40",
+        "nameES": "Rumania",
+        "flatCode": "ro",
+        "dial_code_basic": "40"
+    },
+    {
+        "nameEN": "Russia",
+        "code": "RU",
+        "code_large": "RUS",
+        "dial_code": "+7",
+        "nameES": "Rusia",
+        "flatCode": "ru",
+        "dial_code_basic": "7"
+    },
+    {
+        "nameEN": "Rwanda",
+        "code": "RW",
+        "code_large": "RWA",
+        "dial_code": "+250",
+        "nameES": "Ruanda",
+        "flatCode": "rw",
+        "dial_code_basic": "250"
+    },
+    {
+        "nameEN": "Réunion",
+        "code": "RE",
+        "dial_code": "+262",
+        "nameES": "Reunión",
+        "flatCode": "re",
+        "dial_code_basic": "262"
+    },
+    {
+        "nameEN": "Saint Barthélemy",
+        "code": "BL",
+        "dial_code": "+590",
+        "nameES": "San Bartolomé",
+        "flatCode": "bl",
+        "dial_code_basic": "590"
+    },
+    {
+        "nameEN": "Saint Lucia",
+        "code": "LC",
+        "code_large": "LCA",
+        "dial_code": "+1758",
+        "nameES": "Santa Lucía",
+        "flatCode": "lc",
+        "dial_code_basic": "1758"
+    },
+    {
+        "nameEN": "Samoa",
+        "code": "WS",
+        "code_large": "SAM",
+        "dial_code": "+685",
+        "nameES": "Samoa",
+        "flatCode": "ws",
+        "dial_code_basic": "685"
+    },
+    {
+        "nameEN": "San Marino",
+        "code": "SM",
+        "code_large": "SMR",
+        "dial_code": "+378",
+        "nameES": "San Marino",
+        "flatCode": "sm",
+        "dial_code_basic": "378"
+    },
+    {
+        "nameEN": "Saudi Arabia",
+        "code": "SA",
+        "code_large": "KSA",
+        "dial_code": "+966",
+        "nameES": "Arabia Saudí",
+        "flatCode": "sa",
+        "dial_code_basic": "966"
+    },
+    {
+        "nameEN": "Senegal",
+        "code": "SN",
+        "code_large": "SEN",
+        "dial_code": "+221",
+        "nameES": "Senegal",
+        "flatCode": "sn",
+        "dial_code_basic": "221"
+    },
+    {
+        "nameEN": "Serbia",
+        "code": "RS",
+        "code_large": "SRB",
+        "dial_code": "+381",
+        "nameES": "Serbia",
+        "flatCode": "rs",
+        "dial_code_basic": "381"
+    },
+    {
+        "nameEN": "Seychelles",
+        "code": "SC",
+        "code_large": "SEY",
+        "dial_code": "+248",
+        "nameES": "Seychelles",
+        "flatCode": "sc",
+        "dial_code_basic": "248"
+    },
+    {
+        "nameEN": "Sierra Leone",
+        "code": "SL",
+        "code_large": "SLE",
+        "dial_code": "+232",
+        "nameES": "Sierra Leone",
+        "flatCode": "sl",
+        "dial_code_basic": "232"
+    },
+    {
+        "nameEN": "Singapore",
+        "code": "SG",
+        "code_large": "SGP",
+        "dial_code": "+65",
+        "nameES": "Singapur",
+        "flatCode": "sg",
+        "dial_code_basic": "65"
+    },
+    {
+        "nameEN": "Slovakia",
+        "code": "SK",
+        "code_large": "SVK",
+        "dial_code": "+421",
+        "nameES": "República Eslovaca",
+        "flatCode": "sk",
+        "dial_code_basic": "421"
+    },
+    {
+        "nameEN": "Slovenia",
+        "code": "SI",
+        "code_large": "SLO",
+        "dial_code": "+386",
+        "nameES": "Eslovenia",
+        "flatCode": "si",
+        "dial_code_basic": "386"
+    },
+    {
+        "nameEN": "Solomon Islands",
+        "code": "SB",
+        "code_large": "SOL",
+        "dial_code": "+677",
+        "nameES": "Islas Salomón",
+        "flatCode": "sb",
+        "dial_code_basic": "677"
+    },
+    {
+        "nameEN": "Somalia",
+        "code": "SO",
+        "code_large": "SOM",
+        "dial_code": "+252",
+        "nameES": "Somalia",
+        "flatCode": "so",
+        "dial_code_basic": "252"
+    },
+    {
+        "nameEN": "South Africa",
+        "code": "ZA",
+        "code_large": "RSA",
+        "dial_code": "+27",
+        "nameES": "República de Sudáfrica",
+        "flatCode": "_African_Union",
+        "dial_code_basic": "27"
+    },
+    {
+        "nameEN": "South Georgia",
+        "code": "GS",
+        "dial_code": "+500",
+        "nameES": "Islas Georgias del Sur y Sandwich del Sur",
+        "flatCode": "gs",
+        "dial_code_basic": "500"
+    },
+    {
+        "nameEN": "South Korea",
+        "code": "KR",
+        "code_large": "KOR",
+        "dial_code": "+82",
+        "nameES": "Corea del Sur",
+        "flatCode": "kr",
+        "dial_code_basic": "82"
+    },
+    {
+        "nameEN": "South Sudan",
+        "code": "SS",
+        "dial_code": "+211",
+        "nameES": "Sudán del Sur",
+        "flatCode": "ss",
+        "dial_code_basic": "211"
+    },
+    {
+        "nameEN": "Spain",
+        "code": "ES",
+        "code_large": "ESP",
+        "dial_code": "+34",
+        "nameES": "España",
+        "flatCode": "es",
+        "dial_code_basic": "34"
+    },
+    {
+        "nameEN": "Sri Lanka",
+        "code": "LK",
+        "code_large": "SRI",
+        "dial_code": "+94",
+        "nameES": "Sri Lanka",
+        "flatCode": "lk",
+        "dial_code_basic": "94"
+    },
+    {
+        "nameEN": "Sudan",
+        "code": "SD",
+        "code_large": "SUD",
+        "dial_code": "+249",
+        "nameES": "Sudán",
+        "flatCode": "sd",
+        "dial_code_basic": "249"
+    },
+    {
+        "nameEN": "Suriname",
+        "code": "SR",
+        "code_large": "SUR",
+        "dial_code": "+597",
+        "nameES": "Surinam",
+        "flatCode": "sr",
+        "dial_code_basic": "597"
+    },
+    {
+        "nameEN": "Sweden",
+        "code": "SE",
+        "code_large": "SWE",
+        "dial_code": "+46",
+        "nameES": "Suecia",
+        "flatCode": "se",
+        "dial_code_basic": "46"
+    },
+    {
+        "nameEN": "Switzerland",
+        "code": "CH",
+        "code_large": "SUI",
+        "dial_code": "+41",
+        "nameES": "Suiza",
+        "flatCode": "ch",
+        "dial_code_basic": "41"
+    },
+    {
+        "nameEN": "Syria",
+        "code": "SY",
+        "code_large": "SYR",
+        "dial_code": "+963",
+        "nameES": "Siria",
+        "flatCode": "sy",
+        "dial_code_basic": "963"
+    },
+    {
+        "nameEN": "São Tomé and Príncipe",
+        "code": "ST",
+        "code_large": "STP",
+        "dial_code": "+239",
+        "nameES": "Santo Tomé y Príncipe",
+        "flatCode": "st",
+        "dial_code_basic": "239"
+    },
+    {
+        "nameEN": "Taiwan",
+        "code": "TW",
+        "code_large": "TPE",
+        "dial_code": "+886",
+        "nameES": "Taiwán",
+        "flatCode": "tw",
+        "dial_code_basic": "886"
+    },
+    {
+        "nameEN": "Tajikistan",
+        "code": "TJ",
+        "code_large": "TJK",
+        "dial_code": "+992",
+        "nameES": "Tayikistán",
+        "flatCode": "tj",
+        "dial_code_basic": "992"
+    },
+    {
+        "nameEN": "Tanzania",
+        "code": "TZ",
+        "code_large": "TAN",
+        "dial_code": "+255",
+        "nameES": "Tanzania",
+        "flatCode": "tz",
+        "dial_code_basic": "255"
+    },
+    {
+        "nameEN": "Thailand",
+        "code": "TH",
+        "code_large": "THA",
+        "dial_code": "+66",
+        "nameES": "Tailandia",
+        "flatCode": "th",
+        "dial_code_basic": "66"
+    },
+    {
+        "nameEN": "Timor-Leste",
+        "code": "TL",
+        "code_large": "TLS",
+        "dial_code": "+670",
+        "nameES": "Timor Oriental",
+        "flatCode": "tl",
+        "dial_code_basic": "670"
+    },
+    {
+        "nameEN": "Togo",
+        "code": "TG",
+        "code_large": "TOG",
+        "dial_code": "+228",
+        "nameES": "Togo",
+        "flatCode": "tg",
+        "dial_code_basic": "228"
+    },
+    {
+        "nameEN": "Tonga",
+        "code": "TO",
+        "code_large": "TGA",
+        "dial_code": "+676",
+        "nameES": "Tonga",
+        "flatCode": "to",
+        "dial_code_basic": "676"
+    },
+    {
+        "nameEN": "Trinidad and Tobago",
+        "code": "TT",
+        "code_large": "TTO",
+        "dial_code": "+1868",
+        "nameES": "Trinidad y Tobago",
+        "flatCode": "tt",
+        "dial_code_basic": "1868"
+    },
+    {
+        "nameEN": "Tunisia",
+        "code": "TN",
+        "code_large": "TUN",
+        "dial_code": "+216",
+        "nameES": "Túnez",
+        "flatCode": "tn",
+        "dial_code_basic": "216"
+    },
+    {
+        "nameEN": "Turkey",
+        "code": "TR",
+        "code_large": "TUR",
+        "dial_code": "+90",
+        "nameES": "Turquía",
+        "flatCode": "tr",
+        "dial_code_basic": "90"
+    },
+    {
+        "nameEN": "Turkmenistan",
+        "code": "TM",
+        "code_large": "TKM",
+        "dial_code": "+993",
+        "nameES": "Turkmenistán",
+        "flatCode": "tm",
+        "dial_code_basic": "993"
+    },
+    {
+        "nameEN": "Turks and Caicos Islands",
+        "code": "TC",
+        "dial_code": "+1649",
+        "nameES": "Islas Turks y Caicos",
+        "flatCode": "tc",
+        "dial_code_basic": "1649"
+    },
+    {
+        "nameEN": "Tuvalu",
+        "code": "TV",
+        "code_large": "TUV",
+        "dial_code": "+688",
+        "nameES": "Tuvalu",
+        "flatCode": "tv",
+        "dial_code_basic": "688"
+    },
+    {
+        "nameEN": "Uganda",
+        "code": "UG",
+        "code_large": "UGA",
+        "dial_code": "+256",
+        "nameES": "Uganda",
+        "flatCode": "ug",
+        "dial_code_basic": "256"
+    },
+    {
+        "nameEN": "Ukraine",
+        "code": "UA",
+        "code_large": "UKR",
+        "dial_code": "+380",
+        "nameES": "Ucrania",
+        "flatCode": "ua",
+        "dial_code_basic": "380"
+    },
+    {
+        "nameEN": "United Arab Emirates",
+        "code": "AE",
+        "code_large": "UAE",
+        "dial_code": "+971",
+        "nameES": "Emiratos Árabes Unidos",
+        "flatCode": "_Arab_League",
+        "dial_code_basic": "971"
+    },
+    {
+        "nameEN": "United Kingdom",
+        "code": "GB",
+        "code_large": "GBR",
+        "dial_code": "+44",
+        "nameES": "Reino Unido",
+        "flatCode": "gb",
+        "dial_code_basic": "44"
+    },
+    {
+        "nameEN": "Uzbekistan",
+        "code": "UZ",
+        "code_large": "UZB",
+        "dial_code": "+998",
+        "nameES": "Uzbekistán",
+        "flatCode": "uz",
+        "dial_code_basic": "998"
+    },
+    {
+        "nameEN": "Vanuatu",
+        "code": "VU",
+        "code_large": "VAN",
+        "dial_code": "+678",
+        "nameES": "Vanuatu",
+        "flatCode": "vu",
+        "dial_code_basic": "678"
+    },
+    {
+        "nameEN": "Vatican City",
+        "code": "VA",
+        "dial_code": "+3",
+        "nameES": "Ciudad del Vaticano",
+        "flatCode": "va",
+        "dial_code_basic": "3"
+    },
+    {
+        "nameEN": "Venezuela",
+        "code": "VE",
+        "code_large": "VEN",
+        "dial_code": "+58",
+        "nameES": "Venezuela",
+        "flatCode": "ve",
+        "dial_code_basic": "58"
+    },
+    {
+        "nameEN": "Vietnam",
+        "code": "VN",
+        "code_large": "VIE",
+        "dial_code": "+84",
+        "nameES": "Vietnam",
+        "flatCode": "vn",
+        "dial_code_basic": "84"
+    },
+    {
+        "nameEN": "Western Sahara",
+        "code": "EH",
+        "dial_code": "+2",
+        "nameES": "Sahara Occidental",
+        "flatCode": "eh",
+        "dial_code_basic": "2"
+    },
+    {
+        "nameEN": "Yemen",
+        "code": "YE",
+        "code_large": "YEM",
+        "dial_code": "+967",
+        "nameES": "Yemen",
+        "flatCode": "ye",
+        "dial_code_basic": "967"
+    },
+    {
+        "nameEN": "Zambia",
+        "code": "ZM",
+        "code_large": "ZAM",
+        "dial_code": "+260",
+        "nameES": "Zambia",
+        "flatCode": "zm",
+        "dial_code_basic": "260"
+    },
+    {
+        "nameEN": "Zimbabwe",
+        "code": "ZW",
+        "code_large": "ZIM",
+        "dial_code": "+263",
+        "nameES": "Zimbabue",
+        "flatCode": "zw",
+        "dial_code_basic": "263"
+    },
+    {
+        "nameEN": "Åland Islands",
+        "code": "AX",
+        "dial_code": "+35818",
+        "nameES": "Alandia",
+        "flatCode": "ax",
+        "dial_code_basic": "35818"
+    }
+  ]
